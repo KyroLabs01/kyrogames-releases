@@ -10,7 +10,9 @@
       "accent": "#c6ff43",
       "accent2": "#2f6b00",
       "version": "1.0.0",
-      "sizeMB": 58,
+      "sizeMB": 35,
+      "packageUrl": "https://github.com/KyroLabs01/kyrogames-releases/releases/download/kit-avatares-1.0.0/avatares-da-live-kit-1.0.0.zip",
+      "sha256": "97cb7cf650e301680a7a8e5df6e328786dc7b5558591977c8e9bb9ea8160f4b9",
       "earnings": 100,
       "roblox": { "placeId": 129652372879876 },
       "kit": { "relayExe": "relay-novo/relay-novo.exe" }
