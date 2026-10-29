@@ -1,0 +1,19 @@
+{
+  "minLauncherVersion": "0.2.0",
+  "games": [
+    {
+      "id": "avatares-da-live",
+      "name": "Avatares da Live",
+      "tagline": "O espectador comenta o nick e aparece no Roblox com a skin real.",
+      "category": "Casual",
+      "free": true,
+      "accent": "#c6ff43",
+      "accent2": "#2f6b00",
+      "version": "1.0.0",
+      "sizeMB": 58,
+      "earnings": 100,
+      "roblox": { "placeId": 129652372879876 },
+      "kit": { "relayExe": "relay-novo/relay-novo.exe" }
+    }
+  ]
+}
