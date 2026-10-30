@@ -1,5 +1,5 @@
 {
-  "minLauncherVersion": "0.3.0",
+  "minLauncherVersion": "0.3.1",
   "games": [
     {
       "id": "avatares-da-live",
@@ -11,7 +11,7 @@
       "accent2": "#2f6b00",
       "version": "1.2.1",
       "sizeMB": 58,
-      "packageUrl": "https://github.com/KyroLabs01/kyrogames-releases/releases/download/kit-avatares-1.2.1/avatares-da-live-kit-1.2.1.zip",
+      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/avatares-da-live/avatares-da-live-kit-1.2.1.zip",
       "sha256": "86532c4251b16842145b7b248d18012df3f8d7ce3345bb746c93457ad1cbf009",
       "earnings": 100,
       "roblox": { "placeId": 129652372879876 },
