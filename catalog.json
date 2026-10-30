@@ -1,12 +1,12 @@
 {
-  "minLauncherVersion": "0.2.0",
+  "minLauncherVersion": "0.3.0",
   "games": [
     {
       "id": "avatares-da-live",
       "name": "Avatares da Live",
       "tagline": "O espectador comenta o nick e aparece no Roblox com a skin real.",
       "category": "Casual",
-      "free": true,
+      "free": false,
       "accent": "#c6ff43",
       "accent2": "#2f6b00",
       "version": "1.2.1",
@@ -18,7 +18,7 @@
       "kit": { "relayExe": "relay-novo/relay-novo.exe" },
       "cover": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-da-live/arena.png",
       "tags": ["Roblox", "Feito para TikTok LIVE"],
-      "plan": "Grátis por enquanto",
+      "plan": "Assinatura KyroGames",
       "media": [
         { "type": "image", "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-da-live/arena.png" },
         { "type": "image", "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-da-live/panorama.png" }
@@ -38,7 +38,7 @@
       "specs": [
         { "label": "Categoria", "value": "Roblox" },
         { "label": "Onde roda", "value": "No Roblox" },
-        { "label": "Plano", "value": "Grátis por enquanto" },
+        { "label": "Plano", "value": "Assinatura mensal" },
         { "label": "Plataforma", "value": "Windows" },
         { "label": "TikTok LIVE", "value": "Compatível", "tone": "good" }
       ]
