@@ -15,7 +15,33 @@
       "sha256": "4e7430827d9dd7af9bf9ea7f67e180054906d0250c080c342c96e9bbbf4848eb",
       "earnings": 100,
       "roblox": { "placeId": 129652372879876 },
-      "kit": { "relayExe": "relay-novo/relay-novo.exe" }
+      "kit": { "relayExe": "relay-novo/relay-novo.exe" },
+      "cover": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-da-live/arena.png",
+      "tags": ["Roblox", "Feito para TikTok LIVE"],
+      "plan": "Grátis por enquanto",
+      "media": [
+        { "type": "image", "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-da-live/arena.png" },
+        { "type": "image", "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-da-live/panorama.png" }
+      ],
+      "headline": "Quem comenta o nick se vê dançando na sua live, com a skin de verdade.",
+      "about": [
+        "Quem comenta o próprio nick do Roblox no chat da sua live vê o avatar dele aparecer no jogo, com a skin de verdade, roupa e acessórios, dançando junto com todo mundo.",
+        "Quem manda presente ganha destaque: o avatar fica maior, ganha aura e brilho, e aparece na frente da fila. Cada presente pode tocar a sua música e trocar a dança da multidão, e os presentes mais fortes disparam cenas especiais.",
+        "Quem digitou o nick errado entra com um boneco genérico colorido, então ninguém fica de fora. Você acompanha tudo no painel que abre junto com o jogo e pode usar os rankings como overlay no OBS."
+      ],
+      "features": [
+        { "icon": "bolt", "title": "Reage ao seu público", "text": "Comentário, curtida, seguidor e presente viram ação na tela, na hora." },
+        { "icon": "gift", "title": "Você decide cada presente", "text": "O que cada presente faz se ajusta no painel, antes ou durante a live." },
+        { "icon": "music", "title": "Música e dança por presente", "text": "Cada presente toca uma música e muda a dança de todos os avatares." }
+      ],
+      "note": "Abre no Roblox, direto no jogo. Os presentes se ajustam no painel que abre junto com ele.",
+      "specs": [
+        { "label": "Categoria", "value": "Roblox" },
+        { "label": "Onde roda", "value": "No Roblox" },
+        { "label": "Plano", "value": "Grátis por enquanto" },
+        { "label": "Plataforma", "value": "Windows" },
+        { "label": "TikTok LIVE", "value": "Compatível", "tone": "good" }
+      ]
     }
   ]
 }
