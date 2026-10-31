@@ -14,14 +14,27 @@
       "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/avatares-da-live/avatares-da-live-kit-1.2.1.zip",
       "sha256": "86532c4251b16842145b7b248d18012df3f8d7ce3345bb746c93457ad1cbf009",
       "earnings": 100,
-      "roblox": { "placeId": 129652372879876 },
-      "kit": { "relayExe": "relay-novo/relay-novo.exe" },
+      "roblox": {
+        "placeId": 129652372879876
+      },
+      "kit": {
+        "relayExe": "relay-novo/relay-novo.exe"
+      },
       "cover": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-da-live/arena.png",
-      "tags": ["Roblox", "Feito para TikTok LIVE"],
+      "tags": [
+        "Roblox",
+        "Feito para TikTok LIVE"
+      ],
       "plan": "Assinatura KyroGames",
       "media": [
-        { "type": "image", "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-da-live/arena.png" },
-        { "type": "image", "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-da-live/panorama.png" }
+        {
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-da-live/arena.png"
+        },
+        {
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-da-live/panorama.png"
+        }
       ],
       "headline": "Quem comenta o nick se vê dançando na sua live, com a skin de verdade.",
       "about": [
@@ -30,17 +43,97 @@
         "Quem digitou o nick errado entra com um boneco genérico colorido, então ninguém fica de fora. Você acompanha tudo no painel que abre junto com o jogo e pode usar os rankings como overlay no OBS."
       ],
       "features": [
-        { "icon": "bolt", "title": "Reage ao seu público", "text": "Comentário, curtida, seguidor e presente viram ação na tela, na hora." },
-        { "icon": "gift", "title": "Você decide cada presente", "text": "O que cada presente faz se ajusta no painel, antes ou durante a live." },
-        { "icon": "music", "title": "Música e dança por presente", "text": "Cada presente toca uma música e muda a dança de todos os avatares." }
+        {
+          "icon": "bolt",
+          "title": "Reage ao seu público",
+          "text": "Comentário, curtida, seguidor e presente viram ação na tela, na hora."
+        },
+        {
+          "icon": "gift",
+          "title": "Você decide cada presente",
+          "text": "O que cada presente faz se ajusta no painel, antes ou durante a live."
+        },
+        {
+          "icon": "music",
+          "title": "Música e dança por presente",
+          "text": "Cada presente toca uma música e muda a dança de todos os avatares."
+        }
       ],
       "note": "Abre no Roblox, direto no jogo. Os presentes se ajustam no painel que abre junto com ele.",
       "specs": [
-        { "label": "Categoria", "value": "Roblox" },
-        { "label": "Onde roda", "value": "No Roblox" },
-        { "label": "Plano", "value": "Assinatura mensal" },
-        { "label": "Plataforma", "value": "Windows" },
-        { "label": "TikTok LIVE", "value": "Compatível", "tone": "good" }
+        {
+          "label": "Categoria",
+          "value": "Roblox"
+        },
+        {
+          "label": "Onde roda",
+          "value": "No Roblox"
+        },
+        {
+          "label": "Plano",
+          "value": "Assinatura mensal"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Windows"
+        },
+        {
+          "label": "TikTok LIVE",
+          "value": "Compatível",
+          "tone": "good"
+        }
+      ]
+    },
+    {
+      "id": "cobra-live",
+      "name": "Cobra Live (teste)",
+      "tagline": "Uma cobra diva joga sozinha e responde o chat da sua live com voz.",
+      "category": "Casual",
+      "free": false,
+      "hidden": true,
+      "preview": true,
+      "accent": "#8a3ff0",
+      "accent2": "#3b1a8a",
+      "version": "0.1.0",
+      "sizeMB": 13,
+      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/cobra-live/cobra-live-kit-0.1.0.zip",
+      "sha256": "0df5263222d8fa20b07f901479302a93208de18708660a2ac72488a8140a3ab6",
+      "node": {
+        "entry": "server.js",
+        "port": 3210
+      },
+      "cover": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/cobra-live/capa.png",
+      "tags": [
+        "Protótipo",
+        "Feito para TikTok LIVE"
+      ],
+      "plan": "Teste fechado para sócios",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/cobra-live/jogo.png"
+        }
+      ],
+      "headline": "A Sibila joga sozinha até lotar a arena e responde cada comentário com personalidade.",
+      "about": [
+        "Protótipo para testes internos. A cobra anda sozinha em um parque 3D e cresce até lotar a arena. Uma voz de figurante lê cada comentário, e a Sibila responde pelo nome da pessoa.",
+        "Para a IA funcionar, crie uma chave gratuita do Gemini e cole no painel que abre junto com o jogo. A chave fica só neste computador. Sem ela, a cobra usa frases prontas.",
+        "Para ouvir as vozes, clique em Ligar voz. Para testar, escreva comentários no painel. Para usar uma live real, preencha seu usuário do TikTok na tela de live do launcher antes de abrir o jogo."
+      ],
+      "note": "Protótipo: pode ter falhas. As vozes usam um serviço não oficial, que pode parar de funcionar.",
+      "specs": [
+        {
+          "label": "Categoria",
+          "value": "Protótipo"
+        },
+        {
+          "label": "Onde roda",
+          "value": "Janela do launcher e OBS"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Windows"
+        }
       ]
     }
   ]
