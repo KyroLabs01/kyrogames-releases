@@ -136,6 +136,59 @@
           "value": "Windows"
         }
       ]
+    },
+    {
+      "id": "tata-live",
+      "name": "Tatá na Padaria (teste)",
+      "tagline": "Um tatu crítico de comida joga sozinho no labirinto e responde o chat da sua live com voz.",
+      "category": "Casual",
+      "free": false,
+      "hidden": true,
+      "preview": true,
+      "accent": "#8a3ff0",
+      "accent2": "#3b1a8a",
+      "version": "0.1.0",
+      "sizeMB": 13,
+      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/tata-live/tata-live-kit-0.1.0.zip",
+      "sha256": "3ee6fa066f0eb1a08036f3adf89e5e8406d98b40e0a8acb6192c58948524d890",
+      "node": {
+        "entry": "server.js",
+        "port": 3211,
+        "panel": "/painel.html"
+      },
+      "cover": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/tata-live/jogo.png",
+      "tags": [
+        "Protótipo",
+        "Feito para TikTok LIVE"
+      ],
+      "plan": "Teste fechado para sócios",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/tata-live/jogo.png"
+        }
+      ],
+      "headline": "O Tatá foge dos fantasmas do seu top da live e responde cada comentário com muito atrevimento.",
+      "about": [
+        "Protótipo para testes internos. O Tatá corre sozinho por um labirinto em uma padaria mal-assombrada, come docinhos e foge dos fantasmas de farinha. Os quatro primeiros do ranking viram os fantasmas, e quem tem o fantasma comido ganha pontos.",
+        "Curtidas enchem o turbo. Presentes pequenos fazem chover docinhos, e presentes a partir de 5 moedas liberam a pimenta, que deixa os fantasmas fugindo.",
+        "O jogo abre em uma janela e o painel em outra, então só a janela do jogo vai para a live. Para a IA funcionar, crie uma chave gratuita do Gemini e cole no painel. A chave fica só neste computador. Sem ela, o Tatá usa frases prontas. Para ouvir as vozes, clique em Ligar voz no painel. Para usar uma live real, comece a live e coloque seu @ no campo Sua live no TikTok."
+      ],
+      "note": "Protótipo: pode ter falhas. As vozes usam um serviço não oficial, que pode parar de funcionar.",
+      "specs": [
+        {
+          "label": "Categoria",
+          "value": "Protótipo"
+        },
+        {
+          "label": "Onde roda",
+          "value": "Janela do launcher e OBS"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Windows"
+        }
+      ]
     }
   ]
 }
