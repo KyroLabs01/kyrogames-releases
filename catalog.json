@@ -94,10 +94,10 @@
       "preview": true,
       "accent": "#8a3ff0",
       "accent2": "#3b1a8a",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "sizeMB": 13,
-      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/cobra-live/cobra-live-kit-0.1.0.zip",
-      "sha256": "0df5263222d8fa20b07f901479302a93208de18708660a2ac72488a8140a3ab6",
+      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/cobra-live/cobra-live-kit-0.1.1.zip",
+      "sha256": "d0f9aa15f3277e0cb1e294ccf933e057598f70fa745a47bfdb73e9f4816b27e0",
       "node": {
         "entry": "server.js",
         "port": 3210
@@ -118,7 +118,7 @@
       "about": [
         "Protótipo para testes internos. A cobra anda sozinha em um parque 3D e cresce até lotar a arena. Uma voz de figurante lê cada comentário, e a Sibila responde pelo nome da pessoa.",
         "Para a IA funcionar, crie uma chave gratuita do Gemini e cole no painel que abre junto com o jogo. A chave fica só neste computador. Sem ela, a cobra usa frases prontas.",
-        "Para ouvir as vozes, clique em Ligar voz. Para testar, escreva comentários no painel. Para usar uma live real, preencha seu usuário do TikTok na tela de live do launcher antes de abrir o jogo."
+        "Para ouvir as vozes, clique em Ligar voz. Para testar, escreva comentários no painel. Para usar uma live real, comece a live e coloque seu @ no campo Sua live no TikTok, no painel do jogo. A linha do TikTok fica verde quando o chat estiver sendo lido."
       ],
       "note": "Protótipo: pode ter falhas. As vozes usam um serviço não oficial, que pode parar de funcionar.",
       "specs": [
