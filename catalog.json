@@ -151,10 +151,10 @@
       "preview": true,
       "accent": "#ffe600",
       "accent2": "#1a1aff",
-      "version": "0.4.5",
+      "version": "0.4.6",
       "sizeMB": 12.6,
-      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/tata-live/tata-live-kit-0.4.5.zip",
-      "sha256": "b9bf47414c97863d799e67231d85a1638b5b7178489bff2426c7c8bcea9ad312",
+      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/tata-live/tata-live-kit-0.4.6.zip",
+      "sha256": "c8fb3f3161e2c40a038228cba63516c42517c2e06f0570a287b8e6f9b6a739b8",
       "node": {
         "entry": "server.js",
         "port": 3211,
