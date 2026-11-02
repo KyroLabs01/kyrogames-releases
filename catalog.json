@@ -103,13 +103,17 @@
         "port": 3210,
         "panel": "/painel.html"
       },
-      "cover": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/cobra-live/capa-2.jpg",
+      "cover": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/cobra-live/capa-3.webp",
       "tags": [
         "Protótipo",
         "Feito para TikTok LIVE"
       ],
       "plan": "Teste fechado para sócios",
       "media": [
+        {
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/cobra-live/capa-3.webp"
+        },
         {
           "type": "image",
           "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/cobra-live/jogo.png"
