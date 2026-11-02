@@ -3,7 +3,7 @@
   "games": [
     {
       "id": "avatares-da-live",
-      "name": "Avatares da Live",
+      "name": "Avatares do TikTok",
       "tagline": "O espectador comenta o nick e aparece no Roblox com a skin real.",
       "category": "Casual",
       "free": false,
@@ -20,7 +20,7 @@
       "kit": {
         "relayExe": "relay-novo/relay-novo.exe"
       },
-      "cover": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-da-live/arena.png",
+      "cover": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-da-live/capa.jpg",
       "tags": [
         "Roblox",
         "Feito para TikTok LIVE"
@@ -29,7 +29,7 @@
       "media": [
         {
           "type": "image",
-          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-da-live/arena.png"
+          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-da-live/capa.jpg"
         },
         {
           "type": "image",
