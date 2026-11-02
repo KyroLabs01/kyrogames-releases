@@ -156,7 +156,8 @@
         "port": 3211,
         "panel": "/painel.html"
       },
-      "cover": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/tata-live/jogo.jpg",
+      "cover": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/tata-live/capa.webp",
+      "icon": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/tata-live/capa.webp",
       "tags": [
         "Protótipo",
         "Feito para TikTok LIVE"
