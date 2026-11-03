@@ -2,7 +2,7 @@
   "minLauncherVersion": "0.3.1",
   "games": [
     {
-      "id": "avatares-da-live",
+      "id": "avatares-do-tiktok",
       "name": "Avatares do TikTok",
       "tagline": "O espectador comenta o nick e aparece no Roblox com a skin real.",
       "category": "Casual",
@@ -11,7 +11,7 @@
       "accent2": "#3b1a8a",
       "version": "1.2.1",
       "sizeMB": 58,
-      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/avatares-da-live/avatares-da-live-kit-1.2.1.zip",
+      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/avatares-do-tiktok/avatares-do-tiktok-kit-1.2.1.zip",
       "sha256": "86532c4251b16842145b7b248d18012df3f8d7ce3345bb746c93457ad1cbf009",
       "earnings": 100,
       "roblox": {
@@ -20,7 +20,7 @@
       "kit": {
         "relayExe": "relay-novo/relay-novo.exe"
       },
-      "cover": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-da-live/capa-tiktok.webp",
+      "cover": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-do-tiktok/capa-tiktok.webp",
       "tags": [
         "Roblox",
         "Feito para TikTok LIVE"
@@ -29,11 +29,11 @@
       "media": [
         {
           "type": "image",
-          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-da-live/capa-tiktok.webp"
+          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-do-tiktok/capa-tiktok.webp"
         },
         {
           "type": "image",
-          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-da-live/panorama.png"
+          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-do-tiktok/panorama.png"
         }
       ],
       "headline": "Quem comenta o nick se vê dançando na sua live, com a skin de verdade.",
