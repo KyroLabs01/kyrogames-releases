@@ -86,7 +86,7 @@
     },
     {
       "id": "cobra-live",
-      "name": "Cobra Live (teste)",
+      "name": "Cobra Live",
       "tagline": "Uma cobra diva joga sozinha e responde o chat da sua live com voz.",
       "category": "Casual",
       "free": false,
@@ -108,7 +108,7 @@
         "Protótipo",
         "Feito para TikTok LIVE"
       ],
-      "plan": "Teste fechado para sócios",
+      "plan": "Assinatura KyroGames",
       "media": [
         {
           "type": "image",
@@ -121,11 +121,11 @@
       ],
       "headline": "A Sibila joga sozinha até lotar a arena e responde cada comentário com personalidade.",
       "about": [
-        "Protótipo para testes internos. A cobra anda sozinha em um parque 3D e cresce até lotar a arena. Uma voz de figurante lê cada comentário, e a Sibila responde pelo nome da pessoa.",
+        "A cobra anda sozinha em um parque 3D e cresce até lotar a arena. Uma voz de figurante lê cada comentário, e a Sibila responde pelo nome da pessoa.",
         "Para a IA funcionar, crie uma chave gratuita do Gemini e cole no painel que abre junto com o jogo. A chave fica só neste computador. Sem ela, a cobra usa frases prontas.",
         "O jogo abre em uma janela e o painel em outra, então só a janela do jogo vai para a live. Para ouvir as vozes, clique em Ligar voz no painel. Para usar uma live real, comece a live e coloque seu @ no campo Sua live no TikTok. A linha do TikTok fica verde quando o chat estiver sendo lido."
       ],
-      "note": "Protótipo: pode ter falhas. As vozes usam um serviço não oficial, que pode parar de funcionar.",
+      "note": "As vozes usam um serviço não oficial, que pode parar de funcionar.",
       "specs": [
         {
           "label": "Categoria",
@@ -143,7 +143,7 @@
     },
     {
       "id": "pacman-live",
-      "name": "Pac-Man Live (teste)",
+      "name": "Pac-Man Live",
       "tagline": "O Pac-Man joga sozinho no labirinto clássico e responde o chat da sua live com voz.",
       "category": "Casual",
       "free": false,
@@ -166,7 +166,7 @@
         "Protótipo",
         "Feito para TikTok LIVE"
       ],
-      "plan": "Teste fechado para sócios",
+      "plan": "Assinatura KyroGames",
       "media": [
         {
           "type": "image",
@@ -179,11 +179,11 @@
       ],
       "headline": "O Pac-Man foge dos fantasmas do seu top da live e responde cada comentário com muito atrevimento.",
       "about": [
-        "Protótipo para testes internos, no estilo Pac-Man. O personagem corre sozinho por um labirinto de neon com paredes de tubo, em um salão de fliperama, come bolinhas e foge dos quatro fantasmas. Os quatro primeiros do ranking viram os fantasmas, e quem tem o fantasma comido ganha pontos. De vez em quando aparece uma cereja, que acelera, ou uma poção roxa, que deixa lento.",
+        "No estilo Pac-Man, o personagem corre sozinho por um labirinto de neon com paredes de tubo, em um salão de fliperama, come bolinhas e foge dos quatro fantasmas. Os quatro primeiros do ranking viram os fantasmas, e quem tem o fantasma comido ganha pontos. De vez em quando aparece uma cereja, que acelera, ou uma poção roxa, que deixa lento.",
         "Curtidas enchem o turbo. Presentes pequenos fazem chover bolinhas, e presentes a partir de 5 moedas liberam a bolinha de poder, que deixa os fantasmas fugindo.",
         "Tem música de fundo e efeitos sonoros, que dá para ligar e desligar no painel, em Configurações de som. O jogo abre em uma janela e o painel em outra, então só a janela do jogo vai para a live. Para a IA funcionar, crie uma chave gratuita do Gemini e cole no painel. A chave fica só neste computador. Sem ela, o Pac-Man usa frases prontas. Para uma live real, comece a live e coloque seu @ no campo Sua live no TikTok."
       ],
-      "note": "Protótipo: pode ter falhas. O Pac-Man e seus personagens são marcas da Bandai Namco: usar em live com presentes pode gerar derrubada ou notificação. As vozes usam um serviço não oficial, que pode parar de funcionar.",
+      "note": "O Pac-Man e seus personagens são marcas da Bandai Namco: usar em live com presentes pode gerar derrubada ou notificação. As vozes usam um serviço não oficial, que pode parar de funcionar.",
       "specs": [
         {
           "label": "Categoria",
