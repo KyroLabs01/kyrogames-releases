@@ -142,7 +142,7 @@
       ]
     },
     {
-      "id": "tata-live",
+      "id": "pacman-live",
       "name": "Pac-Man Live (teste)",
       "tagline": "O Pac-Man joga sozinho no labirinto clássico e responde o chat da sua live com voz.",
       "category": "Casual",
@@ -153,15 +153,15 @@
       "accent2": "#1a1aff",
       "version": "0.4.6",
       "sizeMB": 12.6,
-      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/tata-live/tata-live-kit-0.4.6.zip",
+      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/pacman-live/pacman-live-kit-0.4.6.zip",
       "sha256": "c8fb3f3161e2c40a038228cba63516c42517c2e06f0570a287b8e6f9b6a739b8",
       "node": {
         "entry": "server.js",
         "port": 3211,
         "panel": "/painel.html"
       },
-      "cover": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/tata-live/capa.webp",
-      "icon": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/tata-live/capa.webp",
+      "cover": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/pacman-live/capa.webp",
+      "icon": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/pacman-live/capa.webp",
       "tags": [
         "Protótipo",
         "Feito para TikTok LIVE"
@@ -170,11 +170,11 @@
       "media": [
         {
           "type": "image",
-          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/tata-live/capa.webp"
+          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/pacman-live/capa.webp"
         },
         {
           "type": "image",
-          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/tata-live/jogo.jpg"
+          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/pacman-live/jogo.jpg"
         }
       ],
       "headline": "O Pac-Man foge dos fantasmas do seu top da live e responde cada comentário com muito atrevimento.",
