@@ -105,7 +105,7 @@
       },
       "cover": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/cobra-live/capa-3.webp",
       "tags": [
-        "Protótipo",
+        "Casual",
         "Feito para TikTok LIVE"
       ],
       "plan": "Assinatura KyroGames",
@@ -129,7 +129,7 @@
       "specs": [
         {
           "label": "Categoria",
-          "value": "Protótipo"
+          "value": "Casual"
         },
         {
           "label": "Onde roda",
@@ -163,7 +163,7 @@
       "cover": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/pacman-live/capa.webp",
       "icon": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/pacman-live/capa.webp",
       "tags": [
-        "Protótipo",
+        "Casual",
         "Feito para TikTok LIVE"
       ],
       "plan": "Assinatura KyroGames",
@@ -187,7 +187,7 @@
       "specs": [
         {
           "label": "Categoria",
-          "value": "Protótipo"
+          "value": "Casual"
         },
         {
           "label": "Onde roda",
