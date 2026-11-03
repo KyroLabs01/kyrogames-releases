@@ -15,7 +15,8 @@
       "sha256": "86532c4251b16842145b7b248d18012df3f8d7ce3345bb746c93457ad1cbf009",
       "earnings": 100,
       "roblox": {
-        "placeId": 129652372879876
+        "placeId": 129652372879876,
+        "customMap": true
       },
       "kit": {
         "relayExe": "relay-novo/relay-novo.exe"
