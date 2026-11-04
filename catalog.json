@@ -83,7 +83,9 @@
           "value": "Compatível",
           "tone": "good"
         }
-      ]
+      ],
+      "heroVideo": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-do-tiktok/demo.mp4",
+      "heroPoster": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-do-tiktok/demo-poster.jpg"
     },
     {
       "id": "cobra-live",
