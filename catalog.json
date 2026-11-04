@@ -293,6 +293,98 @@
           "tone": "good"
         }
       ]
+    },
+    {
+      "id": "calcada-da-fama",
+      "name": "Calçada da Fama",
+      "tagline": "Quem segue ou manda presente ganha uma estrela com a foto de perfil na calçada da fama.",
+      "category": "Casual",
+      "free": false,
+      "hidden": true,
+      "preview": true,
+      "accent": "#f2c14e",
+      "accent2": "#7b3fd1",
+      "version": "0.1.0",
+      "sizeMB": 11.5,
+      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/calcada-da-fama/calcada-da-fama-kit-0.1.0.zip",
+      "sha256": "27dfd6abf66bf5f3ba0ce2cc4d2bdd7ff0d8e9883dfb08c29f2265f05b936436",
+      "roblox": {
+        "placeId": 137326013013207
+      },
+      "kit": {
+        "relayNode": "server.js",
+        "routes": [
+          "GET /proximo",
+          "GET /estrelas",
+          "POST /concluido",
+          "POST /estado",
+          "POST /vinculo"
+        ]
+      },
+      "cover": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/calcada-da-fama/capa.jpg",
+      "icon": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/calcada-da-fama/capa.jpg",
+      "tags": [
+        "Roblox",
+        "Feito para TikTok LIVE"
+      ],
+      "plan": "Assinatura KyroGames",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/calcada-da-fama/capa.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/calcada-da-fama/galactica.jpg"
+        }
+      ],
+      "headline": "Seu avatar do Roblox talha a foto de perfil de quem segue ou manda presente numa estrela da calçada da fama.",
+      "about": [
+        "Cada seguidor ganha uma estrela Clássica. Presentes dão Bronze, Ouro ou Diamante pela soma de moedas, com luzes, aura dourada e canhões de confete.",
+        "A estrela sobe por um elevador no chão com o dono em pé em cima: o avatar do Roblox de quem comentou o nick, ou uma silhueta de luz com a foto do TikTok.",
+        "Quem comenta o nick do Roblox vira paparazzi num corredor dos dois lados da calçada. O presente gigante (configurável no painel) faz subir a estrela Galáctica, com fogos e holofotes."
+      ],
+      "features": [
+        {
+          "icon": "live",
+          "title": "Seguiu, ganhou estrela",
+          "text": "A foto de perfil é talhada na estrela pelo seu avatar."
+        },
+        {
+          "icon": "gift",
+          "title": "Presente sobe de nível",
+          "text": "Bronze, Ouro, Diamante e a Galáctica para presentes gigantes."
+        },
+        {
+          "icon": "star",
+          "title": "Paparazzi do chat",
+          "text": "Quem comenta o nick do Roblox aparece com a própria skin."
+        }
+      ],
+      "note": "Teste fechado. Abre no Roblox, direto no jogo, e o painel abre junto. Os nomes e fotos vêm do TikTok e não passam pela moderação do Roblox: use o banir do painel se aparecer algo impróprio.",
+      "specs": [
+        {
+          "label": "Categoria",
+          "value": "Roblox"
+        },
+        {
+          "label": "Onde roda",
+          "value": "No Roblox"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Windows"
+        },
+        {
+          "label": "Launcher",
+          "value": "0.8.2 ou mais novo"
+        },
+        {
+          "label": "TikTok LIVE",
+          "value": "Compatível",
+          "tone": "good"
+        }
+      ]
     }
   ]
 }
