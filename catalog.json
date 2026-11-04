@@ -218,10 +218,10 @@
       "preview": true,
       "accent": "#8a3ff0",
       "accent2": "#ff46a0",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "sizeMB": 12.8,
-      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/mural-paintball/mural-paintball-kit-0.1.0.zip",
-      "sha256": "a01328aa804af0632b2738f6ae06791aa1126b658e7a75baf047ce2bea73d329",
+      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/mural-paintball/mural-paintball-kit-0.1.1.zip",
+      "sha256": "1c04366d4cd8361fc837e9cbe7d8c9319b4edfbff72d1bc882deac613ffa58dd",
       "roblox": {
         "placeId": 139836706263129
       },
@@ -304,10 +304,10 @@
       "preview": true,
       "accent": "#f2c14e",
       "accent2": "#7b3fd1",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "sizeMB": 11.5,
-      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/calcada-da-fama/calcada-da-fama-kit-0.1.3.zip",
-      "sha256": "26815b928973b842abc51703f268b3584d19f7697f8e387cb7fc7e1fa5fcc9d9",
+      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/calcada-da-fama/calcada-da-fama-kit-0.1.4.zip",
+      "sha256": "d7b4b6d61a41dbce7a5a11f913f5d3a18a24c929fba9a40d864dfaff83b941d1",
       "roblox": {
         "placeId": 137326013013207
       },
