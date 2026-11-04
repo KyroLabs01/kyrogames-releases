@@ -1,4 +1,4 @@
-{
+﻿{
   "minLauncherVersion": "0.3.1",
   "games": [
     {
@@ -103,10 +103,10 @@
       "preview": true,
       "accent": "#8a3ff0",
       "accent2": "#3b1a8a",
-      "version": "0.2.1",
-      "sizeMB": 13,
-      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/cobra-live/cobra-live-kit-0.2.1.zip",
-      "sha256": "6ac5c403af141797015af8b0d5d146385ed98ef064a323f6b28a54ee3ab8ffdd",
+      "version": "0.2.2",
+      "sizeMB": 12.6,
+      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/cobra-live/cobra-live-kit-0.2.2.zip",
+      "sha256": "68bf4297ae976c52340946912ea5bd6f1889912c453f4e2f1e286e07463ee577",
       "node": {
         "entry": "server.js",
         "port": 3210,
@@ -160,10 +160,10 @@
       "preview": true,
       "accent": "#ffe600",
       "accent2": "#1a1aff",
-      "version": "0.4.7",
+      "version": "0.4.8",
       "sizeMB": 12.6,
-      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/pacman-live/pacman-live-kit-0.4.7.zip",
-      "sha256": "a2084a8282371b756c1aa37ee6144f312ec908d91d7c6959cfd92f7f488e3abd",
+      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/pacman-live/pacman-live-kit-0.4.8.zip",
+      "sha256": "21423dbecfb6acd845a37aaef4d9ac5ca379c3dc2447da174724e73a1106b450",
       "node": {
         "entry": "server.js",
         "port": 3211,
@@ -306,10 +306,10 @@
       "preview": true,
       "accent": "#f2c14e",
       "accent2": "#7b3fd1",
-      "version": "0.1.4",
-      "sizeMB": 11.5,
-      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/calcada-da-fama/calcada-da-fama-kit-0.1.4.zip",
-      "sha256": "d7b4b6d61a41dbce7a5a11f913f5d3a18a24c929fba9a40d864dfaff83b941d1",
+      "version": "0.1.5",
+      "sizeMB": 11.6,
+      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/calcada-da-fama/calcada-da-fama-kit-0.1.5.zip",
+      "sha256": "02e5a638a4058a485cb17ac35323b5003cca12049c164f6abd753025439d02bf",
       "roblox": {
         "placeId": 137326013013207
       },
