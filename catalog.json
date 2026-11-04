@@ -218,10 +218,10 @@
       "preview": true,
       "accent": "#8a3ff0",
       "accent2": "#ff46a0",
-      "version": "0.1.1",
-      "sizeMB": 12.8,
-      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/mural-paintball/mural-paintball-kit-0.1.1.zip",
-      "sha256": "1c04366d4cd8361fc837e9cbe7d8c9319b4edfbff72d1bc882deac613ffa58dd",
+      "version": "0.1.2",
+      "sizeMB": 15.5,
+      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/mural-paintball/mural-paintball-kit-0.1.2.zip",
+      "sha256": "a2b7fb4b6f53f457715d3d25b4ab979ffad281cf4e0bbb068f26b7c643ef1506",
       "roblox": {
         "placeId": 139836706263129
       },
@@ -249,7 +249,9 @@
       "headline": "Seu personagem do Roblox pinta o chat da live num muro, ponto a ponto, com um marcador de paintball.",
       "about": [
         "Cada comentário entra numa fila e vira um @ escrito no muro com bolinhas de tinta, em segundos. Com o chat cheio, o marcador acelera para dar conta de todo mundo.",
-        "Quem manda presente fura a fila e ganha a própria foto de perfil pintada, com um anel arco-íris que gira e brilha. A partir de 30 moedas a foto sai maior; a partir de 100 vira LENDA, com anel dourado.",
+        "Quem manda presente fura a fila e ganha a própria foto de perfil pintada, com um anel arco-íris que gira e brilha. A partir de 30 moedas a foto sai maior; a partir de 100 vira LENDA, com anel dourado. Combo de rosas repete o @ ao lado da foto, 3 por coluna.",
+        "GALÁXIA (1000+ moedas): o boneco troca o marcador por uma minigun de canos girando e pinta a foto com anel cósmico e estrelas.",
+        "MYTHIC (5000+ moedas): contagem regressiva com alarme, jetpack e bazuca, voo na velocidade do som até um muro colossal e um míssil teleguiado com câmera própria. A explosão de tinta forma a foto de quem mandou com uma borda de serafim de 6 asas saltando do muro.",
         "Quando o muro enche, ele é lavado e a pintura recomeça. No painel dá para tirar alguém da fila, banir, pular um desenho e limpar o muro."
       ],
       "features": [
@@ -261,12 +263,12 @@
         {
           "icon": "gift",
           "title": "Presente vira foto",
-          "text": "A foto de perfil de quem presenteia é pintada com anel RGB girando."
+          "text": "Foto de perfil com anel RGB girando; Galáxia pinta com minigun."
         },
         {
           "icon": "star",
-          "title": "Níveis por moedas",
-          "text": "Foto maior com 30+ moedas e LENDA com anel dourado a partir de 100."
+          "title": "Cena MYTHIC",
+          "text": "Jetpack, míssil teleguiado e muro colossal com borda de serafim."
         }
       ],
       "note": "Teste fechado. Abre no Roblox, direto no jogo, e o painel abre junto. Os nomes e fotos vêm do TikTok e não passam pela moderação do Roblox: use o banir do painel se aparecer algo impróprio.",
