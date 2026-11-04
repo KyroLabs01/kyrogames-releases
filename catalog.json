@@ -29,12 +29,18 @@
       "plan": "Assinatura KyroGames",
       "media": [
         {
-          "type": "image",
-          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-do-tiktok/capa-tiktok.webp"
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-do-tiktok/demo-danca.mp4",
+          "thumb": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-do-tiktok/demo-danca.jpg"
+        },
+        {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-do-tiktok/demo-avaliador.mp4",
+          "thumb": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-do-tiktok/demo-avaliador.jpg"
         },
         {
           "type": "image",
-          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-do-tiktok/panorama.png"
+          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-do-tiktok/capa-tiktok.webp"
         }
       ],
       "headline": "Quem comenta o nick se vê dançando na sua live, com a skin de verdade.",
@@ -84,8 +90,8 @@
           "tone": "good"
         }
       ],
-      "heroVideo": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-do-tiktok/demo-2modos.mp4",
-      "heroPoster": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-do-tiktok/demo-2modos.jpg"
+      "heroVideo": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-do-tiktok/demo-2modos-v2.mp4",
+      "heroPoster": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-do-tiktok/demo-2modos-v2.jpg"
     },
     {
       "id": "cobra-live",
