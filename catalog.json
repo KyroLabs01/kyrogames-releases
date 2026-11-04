@@ -84,8 +84,8 @@
           "tone": "good"
         }
       ],
-      "heroVideo": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-do-tiktok/demo.mp4",
-      "heroPoster": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-do-tiktok/demo-poster.jpg"
+      "heroVideo": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-do-tiktok/demo-2modos.mp4",
+      "heroPoster": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-do-tiktok/demo-2modos.jpg"
     },
     {
       "id": "cobra-live",
@@ -199,6 +199,92 @@
         {
           "label": "Plataforma",
           "value": "Windows"
+        }
+      ]
+    },
+    {
+      "id": "mural-paintball",
+      "name": "Mural Paintball",
+      "tagline": "Quem comenta vira um @ pintado no muro; quem manda presente ganha a foto de perfil pintada.",
+      "category": "Casual",
+      "free": false,
+      "hidden": true,
+      "preview": true,
+      "accent": "#8a3ff0",
+      "accent2": "#ff46a0",
+      "version": "0.1.0",
+      "sizeMB": 12.8,
+      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/mural-paintball/mural-paintball-kit-0.1.0.zip",
+      "sha256": "a01328aa804af0632b2738f6ae06791aa1126b658e7a75baf047ce2bea73d329",
+      "roblox": {
+        "placeId": 139836706263129
+      },
+      "kit": {
+        "relayNode": "server.js",
+        "routes": [
+          "GET /proximo",
+          "POST /concluido",
+          "POST /estado"
+        ]
+      },
+      "cover": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-paintball/capa.jpg",
+      "icon": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-paintball/capa.jpg",
+      "tags": [
+        "Roblox",
+        "Feito para TikTok LIVE"
+      ],
+      "plan": "Assinatura KyroGames",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-paintball/capa.jpg"
+        }
+      ],
+      "headline": "Seu personagem do Roblox pinta o chat da live num muro, ponto a ponto, com um marcador de paintball.",
+      "about": [
+        "Cada comentário entra numa fila e vira um @ escrito no muro com bolinhas de tinta, em segundos. Com o chat cheio, o marcador acelera para dar conta de todo mundo.",
+        "Quem manda presente fura a fila e ganha a própria foto de perfil pintada, com um anel arco-íris que gira e brilha. A partir de 30 moedas a foto sai maior; a partir de 100 vira LENDA, com anel dourado.",
+        "Quando o muro enche, ele é lavado e a pintura recomeça. No painel dá para tirar alguém da fila, banir, pular um desenho e limpar o muro."
+      ],
+      "features": [
+        {
+          "icon": "live",
+          "title": "Todo comentário aparece",
+          "text": "O @ de quem comenta é pintado no muro em cerca de um segundo."
+        },
+        {
+          "icon": "gift",
+          "title": "Presente vira foto",
+          "text": "A foto de perfil de quem presenteia é pintada com anel RGB girando."
+        },
+        {
+          "icon": "star",
+          "title": "Níveis por moedas",
+          "text": "Foto maior com 30+ moedas e LENDA com anel dourado a partir de 100."
+        }
+      ],
+      "note": "Teste fechado. Abre no Roblox, direto no jogo, e o painel abre junto. Os nomes e fotos vêm do TikTok e não passam pela moderação do Roblox: use o banir do painel se aparecer algo impróprio.",
+      "specs": [
+        {
+          "label": "Categoria",
+          "value": "Roblox"
+        },
+        {
+          "label": "Onde roda",
+          "value": "No Roblox"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Windows"
+        },
+        {
+          "label": "Launcher",
+          "value": "0.8.2 ou mais novo"
+        },
+        {
+          "label": "TikTok LIVE",
+          "value": "Compatível",
+          "tone": "good"
         }
       ]
     }
