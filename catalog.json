@@ -321,8 +321,8 @@
           "POST /vinculo"
         ]
       },
-      "cover": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/calcada-da-fama/capa.jpg",
-      "icon": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/calcada-da-fama/capa.jpg",
+      "cover": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/calcada-da-fama/capa-v2.jpg",
+      "icon": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/calcada-da-fama/capa-v2.jpg",
       "tags": [
         "Roblox",
         "Feito para TikTok LIVE"
@@ -331,7 +331,7 @@
       "media": [
         {
           "type": "image",
-          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/calcada-da-fama/capa.jpg"
+          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/calcada-da-fama/capa-v2.jpg"
         },
         {
           "type": "image",
