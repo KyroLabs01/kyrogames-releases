@@ -218,10 +218,10 @@
       "preview": true,
       "accent": "#8a3ff0",
       "accent2": "#ff46a0",
-      "version": "0.1.4",
+      "version": "0.1.5",
       "sizeMB": 15.5,
-      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/mural-paintball/mural-paintball-kit-0.1.4.zip",
-      "sha256": "fdf6fbdecc666c5acabf2fcd265418e327b68da80aa773348276806d31634f06",
+      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/mural-paintball/mural-paintball-kit-0.1.5.zip",
+      "sha256": "fb9731790132997dc23a406ddd01f467b018bcadf9af00d870652968ff4ca481",
       "roblox": {
         "placeId": 139836706263129
       },
