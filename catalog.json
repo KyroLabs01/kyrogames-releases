@@ -209,17 +209,17 @@
       ]
     },
     {
-      "id": "mural-paintball",
-      "name": "Mural Paintball",
+      "id": "mural-do-chat",
+      "name": "Mural do Chat",
       "tagline": "Quem comenta vira um @ pintado no muro; quem manda presente ganha a foto de perfil pintada.",
       "category": "Casual",
       "free": false,
       "accent": "#8a3ff0",
       "accent2": "#ff46a0",
-      "version": "0.1.5",
+      "version": "0.1.6",
       "sizeMB": 15.5,
-      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/mural-paintball/mural-paintball-kit-0.1.5.zip",
-      "sha256": "fb9731790132997dc23a406ddd01f467b018bcadf9af00d870652968ff4ca481",
+      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/mural-do-chat/mural-do-chat-kit-0.1.6.zip",
+      "sha256": "abf88c85d02df201b991b51e2fc35dced53a7168ab487f646a0a6831a622e599",
       "roblox": {
         "placeId": 139836706263129
       },
@@ -231,8 +231,8 @@
           "POST /estado"
         ]
       },
-      "cover": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-paintball/capa-v2.webp",
-      "icon": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-paintball/capa-v2.webp",
+      "cover": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-do-chat/capa-v2.webp",
+      "icon": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-do-chat/capa-v2.webp",
       "tags": [
         "Roblox",
         "Feito para TikTok LIVE"
@@ -241,12 +241,12 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-paintball/demo-mural.mp4",
-          "thumb": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-paintball/demo-mural.jpg"
+          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-do-chat/demo-mural.mp4",
+          "thumb": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-do-chat/demo-mural.jpg"
         },
         {
           "type": "image",
-          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-paintball/capa-v2.webp"
+          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-do-chat/capa-v2.webp"
         }
       ],
       "headline": "Seu personagem do Roblox pinta o chat da live num muro, ponto a ponto, com um marcador de paintball.",
