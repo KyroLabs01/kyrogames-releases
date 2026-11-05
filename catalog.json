@@ -240,6 +240,11 @@
       "plan": "Assinatura KyroGames",
       "media": [
         {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-paintball/demo-mural.mp4",
+          "thumb": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-paintball/demo-mural.jpg"
+        },
+        {
           "type": "image",
           "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-paintball/capa-v2.webp"
         }
