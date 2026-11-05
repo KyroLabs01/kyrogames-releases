@@ -91,7 +91,8 @@
         }
       ],
       "heroVideo": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-do-tiktok/demo-2modos-v2.mp4",
-      "heroPoster": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-do-tiktok/demo-2modos-v2.jpg"
+      "heroPoster": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-do-tiktok/demo-2modos-v2.jpg",
+      "icon": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-do-tiktok/capa-tiktok.webp"
     },
     {
       "id": "cobra-live",
@@ -148,7 +149,8 @@
           "label": "Plataforma",
           "value": "Windows"
         }
-      ]
+      ],
+      "icon": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/cobra-live/capa-3.webp"
     },
     {
       "id": "pacman-live",
@@ -297,7 +299,9 @@
           "value": "Compatível",
           "tone": "good"
         }
-      ]
+      ],
+      "heroVideo": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-do-chat/demo-mural-720p60.mp4",
+      "heroPoster": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-do-chat/demo-mural-720p60.jpg"
     },
     {
       "id": "calcada-da-fama",
