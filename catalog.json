@@ -243,8 +243,8 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-do-chat/demo-mural-720p60.mp4",
-          "thumb": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-do-chat/demo-mural-720p60.jpg"
+          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-do-chat/demo-mural-v2.mp4",
+          "thumb": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-do-chat/demo-mural-v2.jpg"
         },
         {
           "type": "image",
@@ -300,8 +300,8 @@
           "tone": "good"
         }
       ],
-      "heroVideo": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-do-chat/demo-mural-720p60.mp4",
-      "heroPoster": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-do-chat/demo-mural-720p60.jpg"
+      "heroVideo": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-do-chat/demo-mural-v2.mp4",
+      "heroPoster": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-do-chat/demo-mural-v2.jpg"
     },
     {
       "id": "calcada-da-fama",
