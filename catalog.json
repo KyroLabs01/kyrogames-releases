@@ -337,6 +337,11 @@
       "plan": "Assinatura KyroGames",
       "media": [
         {
+          "type": "video",
+          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/calcada-da-fama/demo-calcada.mp4",
+          "thumb": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/calcada-da-fama/demo-calcada.jpg"
+        },
+        {
           "type": "image",
           "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/calcada-da-fama/capa-v2.jpg"
         },
@@ -391,7 +396,9 @@
           "value": "Compatível",
           "tone": "good"
         }
-      ]
+      ],
+      "heroVideo": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/calcada-da-fama/demo-calcada.mp4",
+      "heroPoster": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/calcada-da-fama/demo-calcada.jpg"
     }
   ]
 }
