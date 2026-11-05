@@ -231,8 +231,8 @@
           "POST /estado"
         ]
       },
-      "cover": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-paintball/capa.jpg",
-      "icon": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-paintball/capa.jpg",
+      "cover": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-paintball/capa-v2.webp",
+      "icon": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-paintball/capa-v2.webp",
       "tags": [
         "Roblox",
         "Feito para TikTok LIVE"
@@ -241,7 +241,7 @@
       "media": [
         {
           "type": "image",
-          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-paintball/capa.jpg"
+          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-paintball/capa-v2.webp"
         }
       ],
       "headline": "Seu personagem do Roblox pinta o chat da live num muro, ponto a ponto, com um marcador de paintball.",
