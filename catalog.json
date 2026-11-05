@@ -241,8 +241,8 @@
       "media": [
         {
           "type": "video",
-          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-do-chat/demo-mural-1080.mp4",
-          "thumb": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-do-chat/demo-mural-1080.jpg"
+          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-do-chat/demo-mural-720p60.mp4",
+          "thumb": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/mural-do-chat/demo-mural-720p60.jpg"
         },
         {
           "type": "image",
