@@ -219,15 +219,16 @@
       "free": false,
       "accent": "#8a3ff0",
       "accent2": "#ff46a0",
-      "version": "0.1.6",
+      "version": "0.1.7",
       "sizeMB": 15.5,
-      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/mural-do-chat/mural-do-chat-kit-0.1.6.zip",
-      "sha256": "abf88c85d02df201b991b51e2fc35dced53a7168ab487f646a0a6831a622e599",
+      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/mural-do-chat/mural-do-chat-kit-0.1.7.zip",
+      "sha256": "401be1c89db42f7939783466facee4ab7844fcaf4b3f67ec8a37f0df744c0683",
       "roblox": {
         "placeId": 139836706263129
       },
       "kit": {
         "relayNode": "server.js",
+        "relayPort": 8110,
         "routes": [
           "GET /proximo",
           "POST /concluido",
