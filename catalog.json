@@ -311,8 +311,6 @@
       "tagline": "Quem segue ou manda presente ganha uma estrela com a foto de perfil na calçada da fama.",
       "category": "Casual",
       "free": false,
-      "hidden": true,
-      "preview": true,
       "accent": "#f2c14e",
       "accent2": "#7b3fd1",
       "version": "0.1.5",
@@ -377,7 +375,7 @@
           "text": "Quem comenta o nick do Roblox aparece com a própria skin."
         }
       ],
-      "note": "Teste fechado. Abre no Roblox, direto no jogo, e o painel abre junto. Os nomes e fotos vêm do TikTok e não passam pela moderação do Roblox: use o banir do painel se aparecer algo impróprio.",
+      "note": "Abre no Roblox, direto no jogo, e o painel abre junto. Os nomes e fotos vêm do TikTok e não passam pela moderação do Roblox: use o banir do painel se aparecer algo impróprio.",
       "specs": [
         {
           "label": "Categoria",
