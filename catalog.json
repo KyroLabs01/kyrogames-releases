@@ -219,10 +219,10 @@
       "free": false,
       "accent": "#8a3ff0",
       "accent2": "#ff46a0",
-      "version": "0.1.9",
+      "version": "0.1.10",
       "sizeMB": 15.5,
-      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/mural-do-chat/mural-do-chat-kit-0.1.9.zip",
-      "sha256": "0b8b1df4a1d8ae9e6ab7a6a9c5d23caaef3b5aaba0ac95a11b67f00b158b619d",
+      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/mural-do-chat/mural-do-chat-kit-0.1.10.zip",
+      "sha256": "09df33534f5b1f29b55b1d10e95436de5513ab3fbec67e7757e5f9b0613b0bf9",
       "roblox": {
         "placeId": 139836706263129
       },
