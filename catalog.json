@@ -163,10 +163,10 @@
       "preview": true,
       "accent": "#ffe600",
       "accent2": "#1a1aff",
-      "version": "0.4.8",
+      "version": "0.4.9",
       "sizeMB": 12.6,
-      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/pacman-live/pacman-live-kit-0.4.8.zip",
-      "sha256": "21423dbecfb6acd845a37aaef4d9ac5ca379c3dc2447da174724e73a1106b450",
+      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/pacman-live/pacman-live-kit-0.4.9.zip",
+      "sha256": "4cbfb5a7af6a701ad80a61d7aaeb66482aba9dbefeb5a15845df2f5a9b532ae7",
       "node": {
         "entry": "server.js",
         "port": 3211,
