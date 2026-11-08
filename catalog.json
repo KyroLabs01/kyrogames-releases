@@ -313,10 +313,10 @@
       "free": false,
       "accent": "#f2c14e",
       "accent2": "#7b3fd1",
-      "version": "0.1.6",
+      "version": "0.1.7",
       "sizeMB": 11.6,
-      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/calcada-da-fama/calcada-da-fama-kit-0.1.6.zip",
-      "sha256": "59470bb01ab9a3c0cd1b3db09a010525d3d610e31b2b615b5d2bd991a2dc7e63",
+      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/calcada-da-fama/calcada-da-fama-kit-0.1.7.zip",
+      "sha256": "88e2236a6a7e82052eab87d4b415dfbcd49d5e7ee074329894028de142b4cd80",
       "roblox": {
         "placeId": 137326013013207
       },
