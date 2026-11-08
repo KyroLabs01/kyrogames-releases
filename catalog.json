@@ -1,5 +1,5 @@
 ﻿{
-  "minLauncherVersion": "0.8.18",
+  "minLauncherVersion": "0.8.32",
   "supportUrl": "https://discord.gg/w39BYrDQbq",
   "games": [
     {
@@ -105,10 +105,10 @@
       "preview": true,
       "accent": "#8a3ff0",
       "accent2": "#3b1a8a",
-      "version": "0.2.3",
-      "sizeMB": 12.6,
-      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/cobra-live/cobra-live-kit-0.2.3.zip",
-      "sha256": "c360ae3b7e2014e9b4f9acebf60999cece3088c1174f598b890afc4f3615ff74",
+      "version": "0.2.4",
+      "sizeMB": 12.7,
+      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/cobra-live/cobra-live-kit-0.2.4.zip",
+      "sha256": "708dfc45d09f0b94cdc8178c5f76dfc12bea8ba957588af4214c7c2aade6bf13",
       "node": {
         "entry": "server.js",
         "port": 3210,
@@ -163,10 +163,10 @@
       "preview": true,
       "accent": "#ffe600",
       "accent2": "#1a1aff",
-      "version": "0.4.9",
-      "sizeMB": 12.6,
-      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/pacman-live/pacman-live-kit-0.4.9.zip",
-      "sha256": "4cbfb5a7af6a701ad80a61d7aaeb66482aba9dbefeb5a15845df2f5a9b532ae7",
+      "version": "0.4.10",
+      "sizeMB": 12.7,
+      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/pacman-live/pacman-live-kit-0.4.10.zip",
+      "sha256": "12091261469de8ee0e62f2b6adbc0730ce4824a4e769e97b5922e3d785a070c3",
       "node": {
         "entry": "server.js",
         "port": 3211,
@@ -219,10 +219,10 @@
       "free": false,
       "accent": "#8a3ff0",
       "accent2": "#ff46a0",
-      "version": "0.1.13",
-      "sizeMB": 15.5,
-      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/mural-do-chat/mural-do-chat-kit-0.1.13.zip",
-      "sha256": "7c873467ab6daef3700fc56e5218af5f135abb723148b876261462ac2465c58f",
+      "version": "0.1.14",
+      "sizeMB": 15.6,
+      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/mural-do-chat/mural-do-chat-kit-0.1.14.zip",
+      "sha256": "100f6aadbe39ad6a57562c08748f249c14f11dc4d18ca3b09727e8d80d0a8efc",
       "roblox": {
         "placeId": 139836706263129
       },
@@ -313,10 +313,10 @@
       "free": false,
       "accent": "#f2c14e",
       "accent2": "#7b3fd1",
-      "version": "0.1.7",
+      "version": "0.1.8",
       "sizeMB": 11.6,
-      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/calcada-da-fama/calcada-da-fama-kit-0.1.7.zip",
-      "sha256": "88e2236a6a7e82052eab87d4b415dfbcd49d5e7ee074329894028de142b4cd80",
+      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/calcada-da-fama/calcada-da-fama-kit-0.1.8.zip",
+      "sha256": "fe8554e040d792ce521a9547664fca0cf44bb585b36643859191208cf1159de3",
       "roblox": {
         "placeId": 137326013013207
       },
