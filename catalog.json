@@ -1,5 +1,5 @@
 ﻿{
-  "minLauncherVersion": "0.8.32",
+  "minLauncherVersion": "0.8.33",
   "supportUrl": "https://discord.gg/w39BYrDQbq",
   "games": [
     {
@@ -163,10 +163,10 @@
       "preview": true,
       "accent": "#ffe600",
       "accent2": "#1a1aff",
-      "version": "0.4.10",
+      "version": "0.4.11",
       "sizeMB": 12.7,
-      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/pacman-live/pacman-live-kit-0.4.10.zip",
-      "sha256": "12091261469de8ee0e62f2b6adbc0730ce4824a4e769e97b5922e3d785a070c3",
+      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/pacman-live/pacman-live-kit-0.4.11.zip",
+      "sha256": "50568ae1b7f94fa4553a952df8c16cf1249ee071f9b79114e831bdb5e4369393",
       "node": {
         "entry": "server.js",
         "port": 3211,
