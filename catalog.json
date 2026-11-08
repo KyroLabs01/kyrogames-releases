@@ -105,10 +105,10 @@
       "preview": true,
       "accent": "#8a3ff0",
       "accent2": "#3b1a8a",
-      "version": "0.2.2",
+      "version": "0.2.3",
       "sizeMB": 12.6,
-      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/cobra-live/cobra-live-kit-0.2.2.zip",
-      "sha256": "68bf4297ae976c52340946912ea5bd6f1889912c453f4e2f1e286e07463ee577",
+      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/cobra-live/cobra-live-kit-0.2.3.zip",
+      "sha256": "c360ae3b7e2014e9b4f9acebf60999cece3088c1174f598b890afc4f3615ff74",
       "node": {
         "entry": "server.js",
         "port": 3210,
