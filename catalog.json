@@ -1,5 +1,5 @@
 ﻿{
-  "minLauncherVersion": "0.8.33",
+  "minLauncherVersion": "0.8.35",
   "supportUrl": "https://discord.gg/w39BYrDQbq",
   "games": [
     {
@@ -10,17 +10,17 @@
       "free": false,
       "accent": "#8a3ff0",
       "accent2": "#3b1a8a",
-      "version": "1.3.1",
-      "sizeMB": 58,
-      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/avatares-do-tiktok/avatares-do-tiktok-kit-1.3.1.zip",
-      "sha256": "e2c3a209907934bfb6584287b18b57405a0ac6baed7b45cf04856730889f3038",
+      "version": "1.3.2",
+      "sizeMB": 27.5,
+      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/avatares-do-tiktok/avatares-do-tiktok-kit-1.3.2.zip",
+      "sha256": "eae7e04581cda4cf9591cc8982e5ea946038705bcd79499851edf0c3ffcded6e",
       "earnings": 100,
       "roblox": {
         "placeId": 129652372879876,
         "customMap": true
       },
       "kit": {
-        "relayExe": "relay-novo/relay-novo.exe"
+        "relayJs": "relay-js/server.js"
       },
       "cover": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/avatares-do-tiktok/capa-tiktok.webp",
       "tags": [
