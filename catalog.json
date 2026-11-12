@@ -402,6 +402,63 @@
       ],
       "heroVideo": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/calcada-da-fama/demo-calcada.mp4",
       "heroPoster": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/calcada-da-fama/demo-calcada.jpg"
+    },
+    {
+      "id": "festa-das-capivaras",
+      "name": "Festa das Capivaras",
+      "tagline": "Uma roda de dança de casamento em que cada pessoa da sua live vira uma capivara dançando.",
+      "category": "Casual",
+      "free": false,
+      "hidden": true,
+      "preview": true,
+      "accent": "#ffc83d",
+      "accent2": "#8a3fd6",
+      "version": "0.1.0",
+      "sizeMB": 5.1,
+      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/festa-das-capivaras/festa-das-capivaras-kit-0.1.0.zip",
+      "sha256": "af02f3692aa8ddbfad30f5dc172362149c78ff41de9dc26a7285b04b7ecbd1ac",
+      "node": {
+        "entry": "server.js",
+        "port": 3214,
+        "panel": "/painel.html"
+      },
+      "cover": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/festa-das-capivaras/capa.webp",
+      "icon": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/festa-das-capivaras/capa.webp",
+      "tags": [
+        "Casual",
+        "Feito para TikTok LIVE"
+      ],
+      "plan": "Assinatura KyroGames",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/festa-das-capivaras/capa.webp"
+        },
+        {
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/festa-das-capivaras/jogo.jpg"
+        }
+      ],
+      "headline": "Sua live vira uma festa de casamento: cada pessoa entra na roda como uma capivara, com roupa própria, e dança o Halay em volta dos noivos.",
+      "about": [
+        "As capivaras dançam de mãos dadas em rodas em volta do altar, e a câmera corta sozinha entre a visão geral, quem acabou de entrar, a primeira roda e o casamento. Cada pessoa ganha uma roupa sorteada (camiseta, moletom, saia, jeans, boné, laço…) e sempre volta com a mesma.",
+        "Quem comenta ou segue pela primeira vez é um convidado da plateia que levanta da cadeira e entra na roda. Rosa (1 moeda) entra pelo portão; Mini Dino (10) vira líder e puxa a roda; Capybara (30) vira a noiva e Rosquinha (30) vira o noivo, que dançam no altar. Os comentários aparecem em balões em cima de quem falou.",
+        "Curtidas e presentes enchem a barra Clima, e quando ela enche tem fogos. O jogo abre em uma janela e o painel em outra, então só a janela do jogo vai para a live. No painel dá para ligar a live simulada para testar. Para uma live real, comece a live e coloque seu @ no campo Sua live no TikTok."
+      ],
+      "specs": [
+        {
+          "label": "Categoria",
+          "value": "Casual"
+        },
+        {
+          "label": "Onde roda",
+          "value": "Janela do launcher e OBS"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Windows"
+        }
+      ]
     }
   ]
 }
