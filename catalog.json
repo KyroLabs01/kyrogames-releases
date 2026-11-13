@@ -413,10 +413,10 @@
       "preview": true,
       "accent": "#ffc83d",
       "accent2": "#8a3fd6",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "sizeMB": 5.1,
-      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/festa-das-capivaras/festa-das-capivaras-kit-0.1.2.zip",
-      "sha256": "db9133e8640d62f497f60b3a2ce0b58ed19a0a90fdb9fc4ca12396d9195f682e",
+      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/festa-das-capivaras/festa-das-capivaras-kit-0.1.3.zip",
+      "sha256": "f0249ae8792f871c336a75ab5d87c00dc6119eeb60a1aea21f097a599d155bad",
       "node": {
         "entry": "server.js",
         "port": 3214,
@@ -442,7 +442,7 @@
       "headline": "Sua live vira uma festa de casamento: cada pessoa entra na roda como uma capivara, com roupa própria, e dança o Halay em volta dos noivos.",
       "about": [
         "As capivaras dançam de mãos dadas em rodas em volta do altar, e a câmera corta sozinha entre a visão geral, quem acabou de entrar, a primeira roda e o casamento. Cada pessoa ganha uma roupa sorteada (camiseta, moletom, saia, jeans, boné, laço…) e sempre volta com a mesma.",
-        "Para entrar na roda é só comentar: quem comenta ou segue pela primeira vez é um convidado da plateia que levanta da cadeira e entra na roda. Cada pessoa tem um boneco só, e cada comentário aparece num balão em cima dele. Rosa (1 moeda) entra pelo portão; Mini Dino (10) vira líder e puxa a roda; Capybara (30) vira a noiva e Rosquinha (30) vira o noivo, que dançam no altar.",
+        "Para entrar na roda é só comentar: quem comenta pela primeira vez é um convidado da plateia que levanta da cadeira e entra na roda. Cada pessoa tem um boneco só, e cada comentário aparece num balão em cima dele. Quem segue o perfil entra na roda e comemora com corações, ganha uma estrela no nome e esquenta o clima. Por padrão, Rosa entra pelo portão, Mini Dino vira líder, Capybara (30 moedas) vira a noiva e Rosquinha vira o noivo. No painel você escolhe, para cada papel, um presente específico ou um valor mínimo em moedas, e o que acontece quando alguém comenta ou segue.",
         "Curtidas e presentes enchem a barra Clima, e quando ela enche tem fogos. O jogo abre em uma janela e o painel em outra, então só a janela do jogo vai para a live. Se quiser mostrar na live como participar, o painel tem um overlay opcional para o OBS (fonte Navegador, fundo transparente), com frases, tempo, tamanho e cor que você escolhe. No painel também dá para ligar a live simulada para testar. Para uma live real, comece a live e coloque seu @ no campo Sua live no TikTok."
       ],
       "specs": [
