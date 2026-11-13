@@ -413,10 +413,10 @@
       "preview": true,
       "accent": "#ffc83d",
       "accent2": "#8a3fd6",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "sizeMB": 5.1,
-      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/festa-das-capivaras/festa-das-capivaras-kit-0.1.1.zip",
-      "sha256": "2d47d14817ec5617edd4d021b9bb25180c33a85116aaa27b2873961a6ca33d3a",
+      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/festa-das-capivaras/festa-das-capivaras-kit-0.1.2.zip",
+      "sha256": "db9133e8640d62f497f60b3a2ce0b58ed19a0a90fdb9fc4ca12396d9195f682e",
       "node": {
         "entry": "server.js",
         "port": 3214,
@@ -443,7 +443,7 @@
       "about": [
         "As capivaras dançam de mãos dadas em rodas em volta do altar, e a câmera corta sozinha entre a visão geral, quem acabou de entrar, a primeira roda e o casamento. Cada pessoa ganha uma roupa sorteada (camiseta, moletom, saia, jeans, boné, laço…) e sempre volta com a mesma.",
         "Para entrar na roda é só comentar: quem comenta ou segue pela primeira vez é um convidado da plateia que levanta da cadeira e entra na roda. Cada pessoa tem um boneco só, e cada comentário aparece num balão em cima dele. Rosa (1 moeda) entra pelo portão; Mini Dino (10) vira líder e puxa a roda; Capybara (30) vira a noiva e Rosquinha (30) vira o noivo, que dançam no altar.",
-        "Curtidas e presentes enchem a barra Clima, e quando ela enche tem fogos. O jogo abre em uma janela e o painel em outra, então só a janela do jogo vai para a live. No painel dá para ligar a live simulada para testar. Para uma live real, comece a live e coloque seu @ no campo Sua live no TikTok."
+        "Curtidas e presentes enchem a barra Clima, e quando ela enche tem fogos. O jogo abre em uma janela e o painel em outra, então só a janela do jogo vai para a live. Se quiser mostrar na live como participar, o painel tem um overlay opcional para o OBS (fonte Navegador, fundo transparente), com frases, tempo, tamanho e cor que você escolhe. No painel também dá para ligar a live simulada para testar. Para uma live real, comece a live e coloque seu @ no campo Sua live no TikTok."
       ],
       "specs": [
         {
