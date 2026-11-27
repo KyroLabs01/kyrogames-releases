@@ -406,17 +406,17 @@
     {
       "id": "festa-das-capivaras",
       "name": "Festa das Capivaras",
-      "tagline": "Uma roda de dança de casamento em que cada pessoa da sua live vira uma capivara dançando.",
+      "tagline": "Uma festa de casamento em que cada pessoa da sua live vira uma capivara dançando na roda.",
       "category": "Casual",
       "free": false,
       "hidden": true,
       "preview": true,
       "accent": "#ffc83d",
       "accent2": "#8a3fd6",
-      "version": "0.3.3",
+      "version": "0.3.4",
       "sizeMB": 4.9,
-      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/festa-das-capivaras/festa-das-capivaras-kit-0.3.3.zip",
-      "sha256": "6935aaf949993c1f7f7ea14bf99dac865c1e027c91ea085d744c56b619f51d0b",
+      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/festa-das-capivaras/festa-das-capivaras-kit-0.3.4.zip",
+      "sha256": "c6195abf3c020171cfe55f0645f53ee00c9a4f837a5f51709e2e0c975f20a457",
       "node": {
         "entry": "server.js",
         "port": 3214,
@@ -436,18 +436,27 @@
         },
         {
           "type": "image",
-          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/festa-das-capivaras/jogo.jpg"
+          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/festa-das-capivaras/festa-geral.jpg"
         },
         {
           "type": "image",
-          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/festa-das-capivaras/palco.jpg"
+          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/festa-das-capivaras/festa-casal.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/festa-das-capivaras/festa-presente.jpg"
+        },
+        {
+          "type": "image",
+          "url": "https://raw.githubusercontent.com/KyroLabs01/kyrogames-releases/main/assets/festa-das-capivaras/festa-banda.jpg"
         }
       ],
-      "headline": "Sua live vira uma festa de casamento: cada pessoa entra na roda como uma capivara, com roupa própria, e dança o Halay em volta dos noivos.",
+      "headline": "Sua live vira uma festa de casamento: cada pessoa entra na roda como uma capivara com roupa própria, e quem manda presente vira líder, noiva ou noivo.",
       "about": [
-        "As capivaras dançam de mãos dadas em rodas em volta do altar, com uma banda tocando no palco, caixas de som e telão. A câmera corta sozinha entre a visão geral, uma volta em torno da festa, o rosto de quem dança, quem acabou de entrar, os noivos no altar e o palco. Cada pessoa ganha uma roupa sorteada (camiseta, moletom, saia, jeans, boné, laço…) e sempre volta com a mesma.",
-        "Para entrar na roda é só comentar: quem comenta pela primeira vez é um convidado da plateia que levanta da cadeira e entra na roda. Cada pessoa tem um boneco só, e cada comentário aparece num balão em cima dele. Quem segue o perfil entra na roda e comemora com corações, ganha uma estrela no nome e esquenta o clima. Por padrão, Rosa entra pelo portão, Mini Dino vira líder, Capybara (30 moedas) vira a noiva e Rosquinha vira o noivo. No painel você escolhe, para cada papel, um presente específico ou um valor mínimo em moedas, e o que acontece quando alguém comenta ou segue.",
-        "Curtidas e presentes enchem a barra Clima, e quando ela enche tem fogos. O jogo abre em uma janela e o painel em outra, então só a janela do jogo vai para a live. Se quiser mostrar na live como participar, o painel tem um overlay opcional para o OBS (fonte Navegador, fundo transparente), com frases, tempo, tamanho e cor que você escolhe. No painel também dá para ligar a live simulada para testar. Para uma live real, comece a live e coloque seu @ no campo Sua live no TikTok."
+        "As capivaras dançam de mãos dadas em rodas em volta do altar, com uma banda tocando no palco, caixas de som e telão. A câmera corta sozinha entre a visão geral, uma volta em torno da festa, o rosto de quem dança, os noivos no altar e o palco. Cada pessoa ganha uma roupa sorteada (camiseta, moletom, saia, jeans, boné, laço…) e sempre volta com a mesma.",
+        "Para entrar na roda é só comentar: quem comenta pela primeira vez é um convidado da plateia que levanta da cadeira e entra na roda. Cada pessoa tem um boneco só, e cada comentário aparece num balão em cima dele. Com a live parada, quem só entra na live já chega na festa pelo arco, para a festa nunca ficar vazia; quando a live movimenta, só quem comenta entra. Quem segue o perfil comemora com corações e ganha uma estrela no nome.",
+        "Cada presente tem a sua cena: a câmera acompanha quem mandou, da chegada pelo arco até dançar na roda. Por padrão, Rosa entra na roda, Mini Dino vira líder, Capybara (30 moedas) vira a noiva e Rosquinha vira o noivo, e a câmera segue os noivos até o altar. No painel você escolhe, para cada papel, um presente específico ou um valor mínimo em moedas, e o que acontece quando alguém comenta, segue ou entra na live.",
+        "Curtidas e presentes enchem a barra Clima, e quando ela enche tem fogos. O jogo abre em uma janela e o painel em outra, então só a janela do jogo vai para a live. Se quiser mostrar na live como participar, o painel tem um overlay opcional para o OBS (fonte Navegador, fundo transparente). No painel também dá para ligar a live simulada para testar. Para uma live real, comece a live e coloque seu @ no campo Sua live no TikTok."
       ],
       "specs": [
         {
@@ -461,6 +470,23 @@
         {
           "label": "Plataforma",
           "value": "Windows"
+        }
+      ],
+      "features": [
+        {
+          "icon": "live",
+          "title": "Comentou, entrou na roda",
+          "text": "Cada pessoa vira uma capivara com roupa própria, e cada comentário aparece num balão."
+        },
+        {
+          "icon": "gift",
+          "title": "Presente com cinemática",
+          "text": "A câmera mostra quem mandou: a chegada pelo arco, a líder puxando a roda e os noivos indo ao altar."
+        },
+        {
+          "icon": "music",
+          "title": "Banda e telão",
+          "text": "Banda tocando no palco, fogos quando o clima enche e câmera que corta sozinha."
         }
       ]
     }
