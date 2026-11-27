@@ -413,10 +413,10 @@
       "preview": true,
       "accent": "#ffc83d",
       "accent2": "#8a3fd6",
-      "version": "0.3.1",
+      "version": "0.3.2",
       "sizeMB": 4.9,
-      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/festa-das-capivaras/festa-das-capivaras-kit-0.3.1.zip",
-      "sha256": "ed53e902b48d27c1a946c6612647564d01c95528c29d0910dc3656ecee1b6ad3",
+      "packageUrl": "https://kyro-licencas-api.kyrogames-backend.workers.dev/download/festa-das-capivaras/festa-das-capivaras-kit-0.3.2.zip",
+      "sha256": "27c55581c2d3f6f6458fbf8528ce52cec680c4ba84814ecf2f4d3b94e8ea0b3d",
       "node": {
         "entry": "server.js",
         "port": 3214,
